@@ -1,0 +1,1 @@
+print('Hello from Python Week 4, This is a demo fileCounting lines, words, characters')
